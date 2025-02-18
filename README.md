@@ -40,8 +40,12 @@ Download and install Python from python.org.
 
 3. Run the Python Script
 Execute the following command:
-
+sh
 python library_system.py
+
+### Author
+*sneha H*  
+GitHub: [snehah13](https://github.com/snehah13)
 
 4. Interact with the Menu
 Choose an option (1-6) to perform different library operations.
