@@ -35,15 +35,15 @@ Open your terminal or command prompt and run:
 git clone https://github.com/snehah13/library-management-system.git
 cd library-management-system
 
-##2. Install Python (if not installed)
+2. Install Python (if not installed)
 Download and install Python from python.org.
 
-##3. Run the Python Script
+3. Run the Python Script
 Execute the following command:
 
 python library_system.py
 
-##4. Interact with the Menu
+4. Interact with the Menu
 Choose an option (1-6) to perform different library operations.
 Follow on-screen instructions to add, delete, borrow, or return books.
 To exit the system, select option 6.
